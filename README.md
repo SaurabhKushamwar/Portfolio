@@ -50,4 +50,4 @@ These projects highlight my ability to extract insights from data, build dashboa
 - **Email:** your.email@example.com  
 
 ---
-👨‍💻 By **Saurabh Kushwaha**
+👨‍💻 By **Saurabh Kushamwar**
