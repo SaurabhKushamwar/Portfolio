@@ -1,10 +1,10 @@
-# 📊 AtliQ Mart – Supply Chain Delivery Performance Dashboard  
+#AtliQ Mart – Supply Chain Delivery Performance Dashboard  
 
 ## Business Context  
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. Currently, it operates in **Surat, Ahmedabad, and Vadodara**, and plans to expand to Tier-1 cities within 2 years.  
 
-⚠️ **Problem:** Some key customers did not renew contracts due to **late or incomplete deliveries**.  
-🎯 **Objective:** Build a dashboard to track **On-Time (OT %)**, **In-Full (IF %)**, and **On-Time In-Full (OTIF %)** daily against customer targets.  
+**Problem:** Some key customers did not renew contracts due to **late or incomplete deliveries**.  
+**Objective:** Build a dashboard to track **On-Time (OT %)**, **In-Full (IF %)**, and **On-Time In-Full (OTIF %)** daily against customer targets.  
 
 ---
 
@@ -26,10 +26,10 @@ As **Peter Pandey (Data Analyst)**, I designed the dashboard to:
 ---
 
 ## Key Insights  
-- ✅ **Top performers:** Propel Mart, Rel Fresh, Expression Stores  
-- ❌ **Low performers:** Coolblue, Elite Mart, Lotus Mart (low LIFR & high delays)  
-- 📉 Best vs Worst store → **25% service gap**  
-- 🚀 Recommendation: Improve logistics in underperforming stores before expansion  
+- **Top performers:** Propel Mart, Rel Fresh, Expression Stores  
+- **Low performers:** Coolblue, Elite Mart, Lotus Mart (low LIFR & high delays)  
+- Best vs Worst store → **25% service gap**  
+- Recommendation: Improve logistics in underperforming stores before expansion  
 
 ---
 
@@ -39,7 +39,6 @@ As **Peter Pandey (Data Analyst)**, I designed the dashboard to:
 ---
 
 ## Author  
-👨‍💻 *Saurabh Kushwaha – Data Analyst*  
-🔗 [Portfolio Website](your-portfolio-link) | [LinkedIn](your-linkedin-link)  
+*Saurabh Kushamwar – Data Analyst*  
 
 ---
